@@ -1,0 +1,22 @@
+{
+  "name": "حلقات الثريا لتعليم القرآن الكريم",
+  "short_name": "الثريا",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f5132",
+  "theme_color": "#0f5132",
+  "orientation": "portrait",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "1768411699920.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "1768411699920.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
