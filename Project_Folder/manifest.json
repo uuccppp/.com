@@ -1,12 +1,13 @@
 {
   "name": "حلقات الثريا لتعليم القرآن الكريم",
-  "short_name": "الثريا",
+  "short_name": "حلقات الثريا",
+  "description": "تطبيق حلقات الثريا لتعليم القرآن الكريم يعمل بدون إنترنت",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#0f5132",
   "theme_color": "#0f5132",
   "orientation": "portrait",
-  "lang": "ar",
   "icons": [
     {
       "src": "1768411699920.png",
